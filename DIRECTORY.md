@@ -1104,6 +1104,7 @@
   * [Scoring Algorithm](other/scoring_algorithm.py)
   * [Sdes](other/sdes.py)
   * [Sliding Window Maximum](other/sliding_window_maximum.py)
+  * [Time Algo Exec](other/time_algo_exec.py)
   * [Token Bucket](other/token_bucket.py)
   * [Tower Of Hanoi](other/tower_of_hanoi.py)
   * [Word Search](other/word_search.py)
